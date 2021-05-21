@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="49px" viewBox="0 0 83 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle 10</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#03052E" offset="0%"></stop>
+            <stop stop-color="#181A5A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="数据大屏素材" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="素材" transform="translate(-437.000000, -892.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Rectangle-10" transform="translate(478.086420, 916.395062) scale(-1, 1) translate(-478.086420, -916.395062) " points="437 892 486.800355 892 493.006849 899.531693 512.824539 899.531693 519.17284 907.448088 519.17284 940.790123 437 940.790123"></polygon>
+        </g>
+    </g>
+</svg>

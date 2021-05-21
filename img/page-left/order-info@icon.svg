@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>订单 (1)</title>
+    <defs>
+        <linearGradient x1="114.037613%" y1="100%" x2="68.5431403%" y2="63.8788996%" id="linearGradient-1">
+            <stop stop-color="#154EC7" offset="0%"></stop>
+            <stop stop-color="#0D1B6A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.44444464%" y1="0%" x2="70.0686035%" y2="71.6326904%" id="linearGradient-2">
+            <stop stop-color="#154EC7" offset="0%"></stop>
+            <stop stop-color="#0D1B6A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#36EFF9" offset="0%"></stop>
+            <stop stop-color="#154EC7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="数据大屏素材" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="素材" transform="translate(-491.000000, -107.000000)" fill-rule="nonzero">
+            <g id="订单-(1)" transform="translate(491.000000, 107.358025)">
+                <path d="M19.0099703,30.72777 L0,30.72777 L0,0.0129707637 L29.8846695,0.0129707637 L29.8846695,19.0229411 L19.0099703,30.72777 Z M3.32051882,27.4072511 L17.5157368,27.4072511 L26.5641507,17.6947335 L26.5641507,3.33348962 L3.32051882,3.33348962 L3.32051882,27.4072511 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <polygon id="Shape" fill="url(#linearGradient-2)" points="19.923113 29.0675105 16.6025942 29.0675105 16.6025942 16.6155649 28.2244101 16.6155649 28.2244101 19.9360838 19.923113 19.9360838"></polygon>
+                <path d="M6.64103768,8.31426787 L9.96155649,8.31426787 L9.96155649,11.6347867 L6.64103768,11.6347867 L6.64103768,8.31426787 Z M13.2820753,8.31426787 L21.5833724,8.31426787 L21.5833724,11.6347867 L13.2820753,11.6347867 L13.2820753,8.31426787 Z M6.64103768,14.9553055 L13.2820753,14.9553055 L13.2820753,18.2758244 L6.64103768,18.2758244 L6.64103768,14.9553055 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
